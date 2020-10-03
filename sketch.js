@@ -34,7 +34,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(600, 200);
   
   trex = createSprite(50,height-70,20,50);
   
